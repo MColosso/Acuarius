@@ -1,8 +1,8 @@
-## Grupo Acuarius
+### Grupo Acuarius
 
 ## Saldos al 31-ene-2017
 
-| Unidad | Apellidos | Nombres | Seisena | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres | Seisena | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Manada Masculina | Cabaña Escalona | Alessandro Gabriel |  | 0  Reg. | -100 | -100 |
 |  | Celaya Salazar | Sebastián |  | 0  Reg. | 1.200 | 1.200 |
@@ -16,7 +16,7 @@
 |  | Vargas Ramos | Luis Carlos |  | 0   | 200 | 200 |
 |  |  | David Alejandro |  | 0   | 300 | 300 |
 
-| Unidad | Apellidos | Nombres | Seisena | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres | Seisena | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Manada Femenina | Andara Lucatt | Eliette Valentina |  | 0  Reg. | 600 | 600 |
 |  | Flores Lugo | Luisana Fransheska |  | 0  Reg. | 0 | 0 |
@@ -29,7 +29,7 @@
 |  | Santana González | Sinaí Valeria |  | 0  Reg. | -100 | -100 |
 |  | Vargas Ramos | Vanessa Cecilia |  | 0  Reg. | 400 | 400 |
 
-| Unidad | Apellidos | Nombres | Patrulla | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres | Patrulla | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tropa Masculina | Chacín Guerrero | Abad Rafael | Narvales | 0  Reg. | 1.300 | 1.300 |
 |  | Di Maio Rausseo | Antonio José | Tiburones | 0  Reg. | 3.210 | 3.210 |
@@ -45,7 +45,7 @@
 |  | Pérez Peláez | Marcos Rubén | Tiburones | 0  Reg. | 1.690 | 1.690 |
 |  | Seguro Krajacic | Christopher Gabriel | Barracudas | 0  Reg. | 2.930 | 2.930 |
 
-| Unidad | Apellidos | Nombres | Patrulla | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres | Patrulla | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tropa Femenina | Ballesteros Quinto | Laura Vanessa | Toninas | 0  Reg. | 900 | 900 |
 |  | Barrios Loreto | Valentina de los Angeles | Anguilas | 0  Reg. | 400 | 400 |
@@ -57,7 +57,7 @@
 |  | Moncada Colina | Valentina Sinaí | Toninas | 0  Reg. | 2.620 | 2.620 |
 |  | Paz Saldivia | Ambar Serena | Toninas | 0  Reg. | 2.320 | 2.320 |
 
-| Unidad | Apellidos | Nombres |  | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres |  | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clan Masculino | Delgado López | Anthony Yehudel | - - - | 750   | 3.250 | 4.000 |
 |  | Díaz Garrido | Juan Guillermo | - - - | 0  Reg. | 3.450 | 3.450 |
@@ -66,7 +66,7 @@
 |  | Pérez | Francisco | - - - | 750   | 3.070 | 3.820 |
 |  | Santana González | Moises David | - - - | 0  Reg. | -100 | -100 |
 
-| Unidad | Apellidos | Nombres |  | Registro |  | Aportes | Total |
+| Unidad | Apellidos | Nombres |  | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clan Femenino | Bocaranda Mora | Hellen | - - - | 0  Reg. | 710 | 710 |
 |  | DiMaio Rausseo | Greta Cristina | - - - | 0  Reg. | 2.920 | 2.920 |
