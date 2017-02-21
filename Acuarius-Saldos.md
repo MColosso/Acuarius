@@ -29,8 +29,8 @@
 |  | Pérez Peláez | Kitiara Margarita | 4200 | 3.890 | 8.090 |
 |  | Rojas Gil | Samantha Jessirica | 4200 | 2.000 | 6.200 |
 |  | Santana González | Sinaí Valeria | 4200 | 1.000 | 5.200 |
-|  | Vargas Ramos | Vanessa Cecilia | 0 | 2.600 | 2.600 |
-|  | Vargas Ramos | Génesis Michelle | 0 | 1.200 | 1.200 |
+|  | Vargas Ramos | Vanessa Cecilia | 0 | 0 | 0 |
+|  | Vargas Ramos | Génesis Michelle | 0 | 0 | 0 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@
 |  | Paz Saldivia | Ambar Serena | 4200 | 4.520 | 8.720 |
 |  | Sánchez Quintero | Kelly Verónica | 4200 | 2.950 | 7.150 |
 |  | Sánchez Quintero | Leonela Iraida | 4200 | 2.950 | 7.150 |
-|  | Vargas Yusti | Brisleydi Ledymar | 0 | 2.200 | 2.200 |
+|  | Vargas Yusti | Brisleydi Ledymar | 0 | 0 | 0 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
