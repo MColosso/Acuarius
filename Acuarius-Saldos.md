@@ -45,7 +45,7 @@
 |  | Nieves Salazar | Daniel Alejandro | 4200 | 1.470 | 5.670 |
 |  | Ojeda Osorio | Fabián Andrés | 4200 | 2.600 | 6.800 |
 |  | Pérez Peláez | Marcos Rubén | 4200 | 3.890 | 8.090 |
-|  | Rodríguez López | Alonso Sebastián | 0 | 1.000 | 1.000 |
+|  | Rodríguez López | Alonso Sebastián | 0 | 0 | 0 |
 |  | Sánchez Castellanos | Miguel Eduardo | 4200 | 3.600 | 7.800 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
