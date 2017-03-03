@@ -2,7 +2,7 @@
 
 ## Saldos Pendientes de Registro y Aportes Mensuales
 
-### al 21/Febrero/2017
+### al 28/Febrero/2017
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 |  | Morales Zapata | José Alejandro | 4200 | 2.700 | 6.900 |
 |  | Quintero Sanllehi | Carlos | 4200 | 1.000 | 5.200 |
 |  | Uzcátegui Velásquez | Kevin Santiago | 4200 | 3.450 | 7.650 |
-|  | Valera Velásquez | Ricardo José | 0 | 1.490 | 1.490 |
+|  | Valera Velásquez | Ricardo José | 0 | -1.010 | -1.010 |
 |  | Vargas Ramos | Luis Carlos | 4200 | 2.400 | 6.600 |
 |  |  | David Alejandro | 4200 | 2.500 | 6.700 |
 
@@ -34,13 +34,14 @@
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Tropa Masculina** | Chacín Guerrero | Abad Rafael | 4200 | 3.500 | 7.700 |
-|  | Di Maio Rausseo | Antonio José | 4200 | 5.410 | 9.610 |
+| **Tropa Masculina** | Di Maio Rausseo | Antonio José | 4200 | 5.410 | 9.610 |
+|  | Diaz Landaeta | Heros Daniel | 4200 | 2.000 | 6.200 |
 |  | Gandara Katz | José Manuel | 0 | -1.000 | -1.000 |
 |  | Gandara Katz | Nathaniel | 0 | -1.000 | -1.000 |
 |  | Hernández Armanza | Diego Uriel | 4200 | 1.900 | 6.100 |
 |  | Indriago Ramírez | Daniel | 4200 | 1.700 | 5.900 |
 |  | Lugo López | Sebastián | 4200 | 2.185 | 6.385 |
+|  | Medina Silva | Jesús José | 4200 | 2.000 | 6.200 |
 |  | Méndez Lara | Guillermo José | 4200 | 3.200 | 7.400 |
 |  | Nieves Salazar | Daniel Alejandro | 4200 | 1.470 | 5.670 |
 |  | Ojeda Osorio | Fabián Andrés | 4200 | 2.600 | 6.800 |
@@ -51,7 +52,7 @@
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
 | **Tropa Femenina** | Ballesteros Quinto | Laura Vanessa | 4200 | 2.600 | 6.800 |
-|  | Barrios Loreto | Valentina de los Angeles | 4200 | 1.000 | 5.200 |
+|  | Barrios Loreto | Valentina de los Angeles | 4200 | 0 | 4.200 |
 |  | Castañeda Palomino | Angela Nayeli | 4200 | 3.000 | 7.200 |
 |  | García Noriega | Angely Susej | 4200 | 5.400 | 9.600 |
 |  | González Hernández | Eleinys de Jesús | 4200 | 2.950 | 7.150 |
@@ -65,9 +66,9 @@
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
 | **Clan Masculino** | Delgado López | Anthony Yehudel | 4200 | 6.200 | 10.400 |
-|  | Ferrini Flores | Jesús Rafael | 4200 | 4.195 | 8.395 |
+|  | Ferrini Flores | Jesús Rafael | 0 | 4.195 | 4.195 |
 |  | Jiménez Colina | Luis Alberto | 4200 | 5.575 | 9.775 |
-|  | Mujica Barrera | Jesús Alejandro | 4200 | 3.770 | 7.970 |
+|  | Mujica Barrera | Jesús Alejandro | 0 | 3.770 | 3.770 |
 |  | Pérez | Francisco | 4200 | 6.020 | 10.220 |
 |  | Santana González | Moises David | 4200 | 1.000 | 5.200 |
 |  | Seguro Krajacic | Christian Esteban | 4200 | 4.895 | 9.095 |
@@ -75,12 +76,12 @@
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Clan Femenino** | Bocaranda Mora | Hellen | 4200 | 2.910 | 7.110 |
+| **Clan Femenino** | Bocaranda Mora | Hellen | 0 | 2.910 | 2.910 |
 |  | DiMaio Rausseo | Greta Cristina | 4200 | 5.120 | 9.320 |
-|  | Ferrini Flores | Astrid Coromoto | 4200 | 4.195 | 8.395 |
+|  | Ferrini Flores | Astrid Coromoto | 0 | 0 | 0 |
 |  | Hernández Armanza | Oriana Isabel | 4200 | 1.200 | 5.400 |
 |  | Lugo López | Aurihel Katiella | 4200 | 2.185 | 6.385 |
 |  | Quintero Sanllehi | Andreína | 4200 | 2.000 | 6.200 |
 |  | Quintero Sanllehi | Valentina | 4200 | 2.000 | 6.200 |
-|  | Vargas Fragosa | María Fernanda | 4200 | 2.900 | 7.100 |
+|  | Vargas Fragosa | María Fernanda | 0 | 600 | 600 |
 |  | Virla Montilla | Alba Cecilia | 4200 | 2.101 | 6.301 |
