@@ -2,7 +2,7 @@
 
 ## Saldos Pendientes de Registro y Aportes Mensuales
 
-### al 28/Febrero/2017
+### al 04 de Marzo de 2017
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
 | **Tropa Femenina** | Ballesteros Quinto | Laura Vanessa | 4200 | 2.600 | 6.800 |
-|  | Barrios Loreto | Valentina de los Angeles | 4200 | 0 | 4.200 |
+|  | Barrios Loreto | Valentina de los Angeles | 0 | 0 | 0 |
 |  | Castañeda Palomino | Angela Nayeli | 4200 | 3.000 | 7.200 |
 |  | García Noriega | Angely Susej | 4200 | 5.400 | 9.600 |
 |  | González Hernández | Eleinys de Jesús | 4200 | 2.950 | 7.150 |
