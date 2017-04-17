@@ -2,86 +2,89 @@
 
 ## Saldos Pendientes de Registro y Aportes Mensuales
 
-### al 04 de Marzo de 2017
+### al 31 de Marzo de 2017
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Manada Masculina** | Cabaña Escalona | Alessandro Gabriel | 2200 | 2.000 | 4.200 |
-|  | Celaya Salazar | Sebastián | 4200 | 3.400 | 7.600 |
-|  | Lara Hernández | Domingo | 4200 | 2.000 | 6.200 |
-|  | Lugo Palacios | Leiber Gabriel | 4200 | 2.000 | 6.200 |
-|  | Mata Zambrano | Luis Enrique | 0 | 1.000 | 1.000 |
-|  | Morales Zapata | José Alejandro | 4200 | 2.700 | 6.900 |
-|  | Quintero Sanllehi | Carlos | 4200 | 1.000 | 5.200 |
-|  | Uzcátegui Velásquez | Kevin Santiago | 4200 | 3.450 | 7.650 |
-|  | Valera Velásquez | Ricardo José | 0 | -1.010 | -1.010 |
-|  | Vargas Ramos | Luis Carlos | 4200 | 2.400 | 6.600 |
-|  |  | David Alejandro | 4200 | 2.500 | 6.700 |
+| **Manada Masculina** | Cabaña Escalona | Alessandro Gabriel | 0 | -2.000 | -2.000 |
+|  | Celaya Salazar | Sebastián | 0 | 4.400 | 4.400 |
+|  | Lara Hernández | Domingo | 0 | 3.000 | 3.000 |
+|  | Lugo Palacios | Leiber Gabriel | 4200 | 3.000 | 7.200 |
+|  | Mata Zambrano | Luis Enrique | 0 | 2.000 | 2.000 |
+|  | Morales Zapata | José Alejandro | 4200 | 3.700 | 7.900 |
+|  | Quintero Sanllehi | Carlos | 0 | 1.500 | 1.500 |
+|  | Uzcátegui Velásquez | Kevin Santiago | 1700 | 4.450 | 6.150 |
+|  | Valera Velásquez | Ricardo José | 0 | -2.010 | -2.010 |
+|  | Vargas Ramos | Luis Carlos | 4200 | 3.400 | 7.600 |
+|  |  | David Alejandro | 4200 | 3.500 | 7.700 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Manada Femenina** | Andara Lucatt | Eliette Valentina | 0 | -4.200 | -4.200 |
-|  | Flores Lugo | Luisana Fransheska | 4200 | 2.000 | 6.200 |
-|  | Hernández Armanza | Fabiana Isabela | 4200 | 1.200 | 5.400 |
-|  | Indriago Ramírez | Sofía Victoria | 4200 | 1.700 | 5.900 |
-|  | Moyeja Páez | Kimberly Vanessa | 4200 | 2.600 | 6.800 |
-|  | Nieves Salazar | Isabella María | 4200 | 1.300 | 5.500 |
-|  | Pérez Peláez | Kitiara Margarita | 4200 | 3.890 | 8.090 |
-|  | Rojas Gil | Samantha Jessirica | 4200 | 2.000 | 6.200 |
-|  | Santana González | Sinaí Valeria | 4200 | 1.000 | 5.200 |
-|  | Vargas Ramos | Vanessa Cecilia | 0 | 0 | 0 |
-|  | Vargas Ramos | Génesis Michelle | 0 | 0 | 0 |
+| **Manada Femenina** | Andara Lucatt | Eliette Valentina | 0 | -3.200 | -3.200 |
+|  | Flores Lugo | Luisana Fransheska | 4200 | 3.000 | 7.200 |
+|  | Hernández Armanza | Fabiana Isabela | 0 | 1.700 | 1.700 |
+|  | Indriago Ramírez | Sofía Victoria | 0 | 2.200 | 2.200 |
+|  | Moyeja Páez | Kimberly Vanessa | 0 | -400 | -400 |
+|  | Nieves Salazar | Isabella María | 0 | 1.800 | 1.800 |
+|  | Pérez Peláez | Kitiara Margarita | 0 | 4.890 | 4.890 |
+|  | Rojas Gil | Samantha Jessirica | 0 | 1.000 | 1.000 |
+|  | Santana González | Sinaí Valeria | 0 | 500 | 500 |
+|  | Vargas Ramos | Génesis Michelle | 0 | -500 | -500 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Tropa Masculina** | Di Maio Rausseo | Antonio José | 4200 | 5.410 | 9.610 |
-|  | Diaz Landaeta | Heros Daniel | 4200 | 2.000 | 6.200 |
-|  | Gandara Katz | José Manuel | 0 | -1.000 | -1.000 |
-|  | Gandara Katz | Nathaniel | 0 | -1.000 | -1.000 |
-|  | Hernández Armanza | Diego Uriel | 4200 | 1.900 | 6.100 |
-|  | Indriago Ramírez | Daniel | 4200 | 1.700 | 5.900 |
-|  | Lugo López | Sebastián | 4200 | 2.185 | 6.385 |
-|  | Medina Silva | Jesús José | 4200 | 2.000 | 6.200 |
+| **Tropa Masculina** | Di Maio Rausseo | Antonio José | 0 | 4.910 | 4.910 |
+|  | Diaz Landaeta | Heros Daniel | 4200 | 3.000 | 7.200 |
+|  | Gandara Katz | José Manuel | 0 | 0 | 0 |
+|  | Gandara Katz | Nathaniel | 0 | 0 | 0 |
+|  | Hernández Armanza | Diego Uriel | 0 | 2.400 | 2.400 |
+|  | Indriago Ramírez | Daniel | 4200 | 2.200 | 6.400 |
+|  | Lugo López | Sebastián | 0 | -1.815 | -1.815 |
+|  | Medina Silva | Jesús José | 0 | 3.000 | 3.000 |
 |  | Méndez Lara | Guillermo José | 4200 | 3.200 | 7.400 |
-|  | Nieves Salazar | Daniel Alejandro | 4200 | 1.470 | 5.670 |
-|  | Ojeda Osorio | Fabián Andrés | 4200 | 2.600 | 6.800 |
-|  | Pérez Peláez | Marcos Rubén | 4200 | 3.890 | 8.090 |
-|  | Rodríguez López | Alonso Sebastián | 0 | 1.000 | 1.000 |
-|  | Sánchez Castellanos | Miguel Eduardo | 4200 | 3.600 | 7.800 |
+|  | Nieves Salazar | Daniel Alejandro | 0 | 1.970 | 1.970 |
+|  | Ojeda Osorio | Fabián Andrés | 4200 | 3.600 | 7.800 |
+|  | Pérez Peláez | Marcos Rubén | 0 | 4.890 | 4.890 |
+|  | Rodríguez López | Alonso Sebastián | 0 | 2.000 | 2.000 |
+|  | Sánchez Castellanos | Miguel Eduardo | 4200 | 4.600 | 8.800 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Tropa Femenina** | Ballesteros Quinto | Laura Vanessa | 4200 | 2.600 | 6.800 |
+| **Tropa Femenina** | Ballesteros Quinto | Laura Vanessa | 0 | 3.600 | 3.600 |
 |  | Barrios Loreto | Valentina de los Angeles | 0 | 0 | 0 |
-|  | Castañeda Palomino | Angela Nayeli | 4200 | 3.000 | 7.200 |
-|  | García Noriega | Angely Susej | 4200 | 5.400 | 9.600 |
-|  | González Hernández | Eleinys de Jesús | 4200 | 2.950 | 7.150 |
-|  | Jiménez Colina | Grisdel Daniela | 4200 | 2.930 | 7.130 |
-|  | Moncada Colina | Valentina Sinaí | 4200 | 4.820 | 9.020 |
-|  | Paz Saldivia | Ambar Serena | 4200 | 4.520 | 8.720 |
-|  | Sánchez Quintero | Kelly Verónica | 4200 | 2.950 | 7.150 |
-|  | Sánchez Quintero | Leonela Iraida | 4200 | 2.950 | 7.150 |
+|  | Castañeda Palomino | Angela Nayeli | 4200 | 4.000 | 8.200 |
+|  | García Noriega | Angely Susej | 4200 | 6.400 | 10.600 |
+|  | González Hernández | Eleinys de Jesús | 4200 | 3.950 | 8.150 |
+|  | Jiménez Colina | Grisdel Daniela | 0 | 3.930 | 3.930 |
+|  | Moncada Colina | Valentina Sinaí | 4200 | 5.820 | 10.020 |
+|  | Paz Saldivia | Ambar Serena | 0 | 5.520 | 5.520 |
+|  | Sánchez Quintero | Kelly Verónica | 4200 | 3.950 | 8.150 |
+|  | Sánchez Quintero | Leonela Iraida | 4200 | 3.950 | 8.150 |
 |  | Vargas Yusti | Brisleydi Ledymar | 0 | 0 | 0 |
+|  | Vargas Ramos | Vanessa Cecilia | 0 | 0 | 0 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Clan Masculino** | Delgado López | Anthony Yehudel | 4200 | 6.200 | 10.400 |
-|  | Ferrini Flores | Jesús Rafael | 0 | 4.195 | 4.195 |
-|  | Jiménez Colina | Luis Alberto | 4200 | 5.575 | 9.775 |
-|  | Mujica Barrera | Jesús Alejandro | 0 | 3.770 | 3.770 |
-|  | Pérez | Francisco | 4200 | 6.020 | 10.220 |
-|  | Santana González | Moises David | 4200 | 1.000 | 5.200 |
-|  | Seguro Krajacic | Christian Esteban | 4200 | 4.895 | 9.095 |
-|  | Seguro Krajacic | Christopher Gabriel | 4200 | 5.130 | 9.330 |
+| **Clan Masculino** | Bisshopp González | Diego Alfonzo | 0 | 3.700 | 3.700 |
+|  | Blain Tassoni | Carlos Felipe | 0 | 3.000 | 3.000 |
+|  | Delgado López | Anthony Yehudel | 4200 | 7.200 | 11.400 |
+|  | Ferrini Flores | Jesús Rafael | 0 | 5.195 | 5.195 |
+|  | García Alae | Elisaul | 0 | 1.000 | 1.000 |
+|  | Jiménez Colina | Luis Alberto | 0 | 6.575 | 6.575 |
+|  | Mujica Barrera | Jesús Alejandro | 0 | 1.770 | 1.770 |
+|  | Santana González | Moises David | 0 | 500 | 500 |
+|  | Seguro Krajacic | Christian Esteban | 4200 | 5.895 | 10.095 |
+|  | Seguro Krajacic | Christopher Gabriel | 4200 | 6.130 | 10.330 |
+|  | Velázquez Pinto | Ernik Alejandro | 4200 | 3.000 | 7.200 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total |
 | --- | --- | --- | --- | --- | --- |
-| **Clan Femenino** | Bocaranda Mora | Hellen | 0 | 2.910 | 2.910 |
-|  | DiMaio Rausseo | Greta Cristina | 4200 | 5.120 | 9.320 |
-|  | Ferrini Flores | Astrid Coromoto | 0 | 0 | 0 |
-|  | Hernández Armanza | Oriana Isabel | 4200 | 1.200 | 5.400 |
-|  | Lugo López | Aurihel Katiella | 4200 | 2.185 | 6.385 |
-|  | Quintero Sanllehi | Andreína | 4200 | 2.000 | 6.200 |
-|  | Quintero Sanllehi | Valentina | 4200 | 2.000 | 6.200 |
+| **Clan Femenino** | Bocaranda Mora | Hellen | 0 | 3.910 | 3.910 |
+|  | DiMaio Rausseo | Greta Cristina | 4200 | 6.120 | 10.320 |
+|  | Ferrini Flores | Astrid Coromoto | 0 | 1.000 | 1.000 |
+|  | Hernández Armanza | Oriana Isabel | 4200 | 1.700 | 5.900 |
+|  | Lugo López | Aurihel Katiella | 0 | -1.815 | -1.815 |
+|  | Quintero Sanllehi | Andreína | 0 | 3.000 | 3.000 |
+|  | Quintero Sanllehi | Valentina | 0 | 3.000 | 3.000 |
 |  | Vargas Fragosa | María Fernanda | 0 | 600 | 600 |
-|  | Virla Montilla | Alba Cecilia | 4200 | 2.101 | 6.301 |
+|  | Virla Montilla | Alba Cecilia | 0 | 3.101 | 3.101 |
