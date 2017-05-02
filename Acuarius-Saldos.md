@@ -34,13 +34,13 @@
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total a pagar |
 | --- | --- | --- | --- | --- | --- |
 | **Tropa Masculina** | Di Maio Rausseo | Antonio José | 0 - Reg. | 5.910 | 5.910 |
-|  | Diaz Landaeta | Heros Daniel | 0 -  | 4.000 | 4.000 |
+|  | Diaz Landaeta | Heros Daniel | 0 - Reg. | 4.000 | 4.000 |
 |  | Gandara Katz | José Manuel | 0 - Reg. | 1.000 | 1.000 |
 |  | Gandara Katz | Nathaniel | 0 - Reg. | 1.000 | 1.000 |
 |  | Hernández Armanza | Diego Uriel | 0 - Reg. | 2.900 | 2.900 |
-|  | Indriago Ramírez | Daniel | 0 -  | 2.700 | 2.700 |
+|  | Indriago Ramírez | Daniel | 0 - Reg. | 2.700 | 2.700 |
 |  | Lugo López | Sebastián | 0 - Reg. | -815 | -815 |
-|  | Mata Rojas | Andrés Alejandro | 0 -  | 1.000 | 1.000 |
+|  | Mata Rojas | Andrés Alejandro | 0 - Reg. | 1.000 | 1.000 |
 |  | Medina Silva | Jesús José | 0 - Reg. | 4.000 | 4.000 |
 |  | Méndez Lara | Guillermo José | 4.200 -  | 4.200 | 8.400 |
 |  | Nieves Salazar | Daniel Alejandro | 0 - Reg. | 2.470 | 2.470 |
@@ -73,8 +73,8 @@
 |  | Jiménez Colina | Luis Alberto | 0 -  | 7.575 | 7.575 |
 |  | Mujica Barrera | Jesús Alejandro | 0 -  | -230 | -230 |
 |  | Santana González | Moises David | 0 -  | 1.000 | 1.000 |
-|  | Seguro Krajacic | Christian Esteban | 0 -  | 5.395 | 5.395 |
-|  | Seguro Krajacic | Christopher Gabriel | 0 -  | 5.630 | 5.630 |
+|  | Seguro Krajacic | Christian Esteban | 0 - Reg. | 5.395 | 5.395 |
+|  | Seguro Krajacic | Christopher Gabriel | 0 - Reg. | 5.630 | 5.630 |
 |  | Velázquez Pinto | Ernik Alejandro | 4.200 -  | 1.000 | 5.200 |
 
 | Unidad | Apellidos | Nombres | Registro |  Aportes | Total a pagar |
